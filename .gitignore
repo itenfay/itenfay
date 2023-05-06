@@ -1,0 +1,9 @@
+# User-specific files
+_site
+node_modules
+
+# Shell
+*.sh
+
+# macOS
+.DS_Store
