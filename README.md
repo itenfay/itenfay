@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on AR.
 
-- 🌐 Recommended repositories: https://chenxing640.github.io/about/
+- 🌐 Recommend my [repositories](https://chenxing640.github.io/about/)
 
 - 📫 How to reach me: chenxing640@foxmail.com
