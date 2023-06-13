@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me
 
-- Jianshu: [focusontech](https://www.jianshu.com/u/7fc76f1179cc)
-- Zhihu: [focusontech](https://www.zhihu.com/people/focusontech)
+- JianShu: [focusontech](https://www.jianshu.com/u/7fc76f1179cc)
+- ZhiHu: [focusontech](https://www.zhihu.com/people/focusontech)
 
 Thank you for visiting my GitHub profile!
