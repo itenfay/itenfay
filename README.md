@@ -1,6 +1,5 @@
-<!--
-**chenxing640/chenxing640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<!-- **chenxing640/chenxing640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
 # 👋 Hi, I'm ChenXing
 
 ## Introduction
@@ -30,10 +29,9 @@ Welcome to my GitHub profile! I'm a developer from China. I am passionate about 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chenxing640&show_icons=true&layout=compact" />
 </picture>
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=chenxing640&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
--->
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=chenxing640&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" /> -->
 
-<!--
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -43,33 +41,33 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
 
 <!--- Recommend my [repos](https://chenxing640.github.io/about/) -->
 
-## 🔭 Current Work
+<!-- ## 🔭 Current Work
 
 - To improve the user experience of my company's products.
-- I'm currently working on Augmented Reality.
+- I'm currently working on Augmented Reality. -->
 
-## 🌱 Learning
+<!-- ## 🌱 Learning
 
-- I'm always learning new things, but lately I've been focusing on Augmented Reality.
+- I'm always learning new things, but lately I've been focusing on Augmented Reality. -->
 
-## 👯 Collaboration
+<!-- ## 👯 Collaboration
 
-- I'm open to collaborating on any open source projects.
+- I'm open to collaborating on any open source projects. -->
 
 ## 💬 Ask me about
 
 - Swift or Objective-C development, etc.
-- Augmented Reality with ARKit and RealityKit
+<!-- - Augmented Reality with ARKit and RealityKit -->
 - Open source software
 
 ## 📫 How to reach me
 
 - Jianshu: [focusontech](https://www.jianshu.com/u/7fc76f1179cc)
 - Zhihu: [focusontech](https://www.zhihu.com/people/c9ea1793a9a09c1af2b689c0676940b8)
+- Email: chenxing640@foxmail.com
 
 Thank you for visiting my GitHub profile!
