@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I'm a developer from China. I am passionate about creating open source tools for developers.
 
-<picture>
+<!-- <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=chenxing640&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a developer from China. I am passionate about 
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chenxing640&show_icons=true" />
-</picture>
+</picture> -->
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=chenxing640&show_icons=true&theme=dark&layout=compact"
