@@ -61,8 +61,7 @@ Here are some ideas to get you started:
 
 ## 💬 Ask me about
 
-- Objective-C or Swift development, etc.
-<!-- - Augmented Reality with ARKit and RealityKit. -->
+- Objective-C or Swift development, etc. <!-- - Augmented Reality with ARKit and RealityKit. -->
 - Other or open source software.
 
 ## 📫 How to reach me
