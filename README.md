@@ -1,6 +1,6 @@
 <!-- **chenxing640/chenxing640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# 👋 Hi, I'm ChenXing
+# 👋 Hi, I'm Chen Xing
 
 ## Introduction
 
@@ -45,25 +45,25 @@ Here are some ideas to get you started:
 
 <!-- - Recommend my [repos](https://chenxing640.github.io/about/) -->
 
-## 🔭 Current Work
+<!-- ## 🔭 Current Work
 
 - I'm currently looking for a job.
-<!-- - To improve the user experience of my company's products.
-- I'm currently working on Augmented Reality. -->
+- To improve the user experience of my company's products.
+- I'm currently working on Augmented Reality. √
 
-## 🌱 Learning
+<!-- ## 🌱 Learning
 
-- I'm always learning new things, but lately I've been focusing on Augmented Reality.
+- I'm always learning new things, but lately I've been focusing on Augmented Reality.-->
 
-## 👯 Collaboration
+<!-- ## 👯 Collaboration
 
-- I'm open to collaborating on any open source projects.
+- I'm open to collaborating on any open source projects.-->
 
-## 💬 Ask me about
+<!-- ## 💬 Ask me about
 
 - Swift or Objective-C development, etc.
 - Augmented Reality with ARKit and RealityKit
-- Open source software
+- Open source software -->
 
 ## 📫 How to reach me
 
