@@ -4,9 +4,9 @@
 
 ## Introduction
 
-Welcome to my GitHub profile! I'm a developer from China. I am passionate about creating open source tools for developers.
+Welcome to my GitHub profile! I'm a program developer from China. I am passionate about creating open source tools for developers.
 
-<!-- <picture>
+<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=chenxing640&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a developer from China. I am passionate about 
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chenxing640&show_icons=true" />
-</picture> -->
+</picture>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=chenxing640&show_icons=true&theme=dark&layout=compact"
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 - I'm currently looking for a job.
 - To improve the user experience of my company's products.
-- I'm currently working on Augmented Reality. √
+- I'm currently working on Augmented Reality. -->
 
 <!-- ## 🌱 Learning
 
@@ -57,13 +57,13 @@ Here are some ideas to get you started:
 
 <!-- ## 👯 Collaboration
 
-- I'm open to collaborating on any open source projects.-->
+- I'm open to collaborating on any open source projects. -->
 
-<!-- ## 💬 Ask me about
+## 💬 Ask me about
 
-- Swift or Objective-C development, etc.
-- Augmented Reality with ARKit and RealityKit
-- Open source software -->
+- Objective-C or Swift development, etc.
+<!-- - Augmented Reality with ARKit and RealityKit. -->
+- Other or open source software.
 
 ## 📫 How to reach me
 
@@ -71,4 +71,4 @@ Here are some ideas to get you started:
 - Zhihu: [focusontech](https://www.zhihu.com/people/c9ea1793a9a09c1af2b689c0676940b8)
 - Email: chenxing640@foxmail.com
 
-Thank you for visiting my GitHub profile!
+<!-- Thank you for visiting my GitHub profile! -->
