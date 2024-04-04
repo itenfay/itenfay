@@ -1,6 +1,6 @@
 <!--**chenxing640/chenxing640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-## 👋 Hi, I'm Chen Xing
+## 👋 Hi, I'm Chen Xing!
 
 <!--## Introduction-->
 
@@ -70,6 +70,8 @@ Here are some ideas to get you started:
   <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Xcode-35495E?style=for-the-badge&logo=xcode&logoColor=4FC08D">
   <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/VSCode-35495E?style=for-the-badge&logo=vscode&logoColor=4FC08D">
 </div>
+
+<br>
 
 ### Github Stats
 
