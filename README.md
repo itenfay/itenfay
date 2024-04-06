@@ -4,7 +4,7 @@
 
 <!--## Introduction-->
 
-Welcome to my GitHub profile! I'm a program developer from China. I am passionate about creating open source tools for developers.
+Welcome to my GitHub profile! I'm a program developer who always enjoys learning new things from China. I am passionate about creating open source tools for developers.
 
 <!-- 
 Here are some ideas to get you started:
