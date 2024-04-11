@@ -1,6 +1,6 @@
 <!--**chenxing640/chenxing640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-## 👋 Hi, I'm Chen Xing!
+## 👋 Hi, I'm Teng Fei!
 
 <!--## Introduction-->
 
@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
-<!--- Recommend my [repos](https://chenxing640.github.io/about/)-->
 
 <!-- ## 🔭 Current Work-->
 <!---->
@@ -42,9 +40,9 @@ Here are some ideas to get you started:
 
 <!-- ## 📫 How to reach me-->
 <!---->
-<!--- Jianshu: [focusontech](https://www.jianshu.com/u/7fc76f1179cc)-->
-<!--- Zhihu: [focusontech](https://www.zhihu.com/people/c9ea1793a9a09c1af2b689c0676940b8)-->
-<!--- Email: chenxing640@foxmail.com -->
+<!--- Jianshu: [腾飞tengfei](https://www.jianshu.com/u/7fc76f1179cc)-->
+<!--- Zhihu: [腾飞](https://www.zhihu.com/people/c9ea1793a9a09c1af2b689c0676940b8)-->
+<!--- Email: hansen981@126.com -->
 
 <!-- Thank you for visiting my GitHub profile! -->
 
@@ -55,7 +53,7 @@ Here are some ideas to get you started:
 - 🖥️ &nbsp; See my blog at [chenxing640.github.io](https://chenxing640.github.io/)
 - 🤝 &nbsp; I'm open to collaborating on any open source projects.
 - 💬 &nbsp; Ask me anything [here](https://www.jianshu.com/u/7fc76f1179cc)! I am happy to help.
-- 📫 &nbsp; How to reach me: chenxing640@foxmail.com.
+- 📫 &nbsp; How to reach me: hansen981@126.com
 
 ### Languages and Tools
 
