@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ### More About Me
 
-- 🌍 &nbsp; I live in China.
+- 🌍 &nbsp; I live in Changsha, China.
 - 🎓 &nbsp; iOS develop engineer
 - 🖥️ &nbsp; See my blog at [chenxing640.github.io](https://chenxing640.github.io/)
 - 🤝 &nbsp; I'm open to collaborating on any open source projects.
