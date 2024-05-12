@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
   <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Xcode-35495E?style=for-the-badge&logo=xcode&logoColor=4FC08D">
   <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Android-Studio-35495E?style=for-the-badge&logo=android_studio&logoColor=white">
+  <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Android_Studio-35495E?style=for-the-badge&logo=android_studio&logoColor=white">
   <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/VSCode-35495E?style=for-the-badge&logo=vscode&logoColor=4FC08D">
 </div>
 
