@@ -1,5 +1,4 @@
 <!--**chenxing640/chenxing640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
 ## 👋 Hi, I'm Teng Fei!
 
 <!--## Introduction-->
@@ -19,17 +18,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 <!-- ## 🔭 Current Work-->
-<!---->
 <!--- I'm currently looking for a job.-->
 <!--- To improve the user experience of my company's products.-->
 <!--- I'm currently working on Augmented Reality.-->
 
 <!-- ## 🌱 Learning-->
-<!---->
 <!--- I'm always learning new things, but lately I've been focusing on Augmented Reality.-->
 
 <!-- ## 👯 Collaboration-->
-<!---->
 <!--- I'm open to collaborating on any open source projects. -->
 
 <!-- ## 💬 Ask me about-->
@@ -39,7 +35,6 @@ Here are some ideas to get you started:
 <!--- Other or open source software. -->
 
 <!-- ## 📫 How to reach me-->
-<!---->
 <!--- Jianshu: [腾飞tengfei](https://www.jianshu.com/u/7fc76f1179cc)-->
 <!--- Zhihu: [腾飞](https://www.zhihu.com/people/c9ea1793a9a09c1af2b689c0676940b8)-->
 <!--- Email: hansen981@126.com -->
@@ -64,7 +59,8 @@ Here are some ideas to get you started:
   <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Shell-20232A?style=for-the-badge&logo=shell&logoColor=61DAFB">
   <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Dart-35495E?style=for-the-badge&logo=flutter&logoColor=4FC08D">
   <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-<!--  <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">-->
+  <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+    <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Android-Studio-35495E?style=for-the-badge&logo=android-studio&logoColor=white">
   <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Xcode-35495E?style=for-the-badge&logo=xcode&logoColor=4FC08D">
   <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/VSCode-35495E?style=for-the-badge&logo=vscode&logoColor=4FC08D">
 </div>
