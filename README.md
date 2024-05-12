@@ -54,15 +54,15 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Objective--C-323330?style=for-the-badge&logo=ios&logoColor=F7DF1E">
-  <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Swift-007ACC?style=for-the-badge&logo=swift&logoColor=white">
-  <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB">
-  <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Shell-20232A?style=for-the-badge&logo=shell&logoColor=61DAFB">
-  <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Dart-35495E?style=for-the-badge&logo=flutter&logoColor=4FC08D">
+  <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Swift-F24E1E?style=for-the-badge&logo=swift&logoColor=white">
   <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-  <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Xcode-35495E?style=for-the-badge&logo=xcode&logoColor=4FC08D">
+  <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Xcode-20232A?style=for-the-badge&logo=xcode&logoColor=4FC08D">
+  <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Dart-35495E?style=for-the-badge&logo=flutter&logoColor=4FC08D">
+  <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/VSCode-005C84?style=for-the-badge&logo=visual-studio-code&logoColor=61DAFB">
   <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Android_Studio-35495E?style=for-the-badge&logo=android-studio&logoColor=white">
-  <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/VSCode-35495E?style=for-the-badge&logo=vscode&logoColor=4FC08D">
+  <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Android_Studio-339933?style=for-the-badge&logo=android-studio&logoColor=white">
+  <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Shell-2CA5E0?style=for-the-badge&logo=shell&logoColor=white">
+  <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
 <br>
