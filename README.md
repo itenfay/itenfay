@@ -1,5 +1,5 @@
-<!--**chenxing640/chenxing640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-## 👋 Hi, I'm Teng Fei!
+<!--**itenfay/itenfay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+## 👋 Hi, I'm Tenfay!
 
 <!--## Introduction-->
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <!--- Other or open source software. -->
 
 <!-- ## 📫 How to reach me-->
-<!--- Jianshu: [腾飞tengfei](https://www.jianshu.com/u/7fc76f1179cc)-->
+<!--- Jianshu: [腾飞Tenfay](https://www.jianshu.com/u/7fc76f1179cc)-->
 <!--- Zhihu: [腾飞](https://www.zhihu.com/people/c9ea1793a9a09c1af2b689c0676940b8)-->
 <!--- Email: hansen981@126.com -->
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 - 🌍 &nbsp; I live in Changsha, China.
 - 🎓 &nbsp; iOS develop engineer
-- 🖥️ &nbsp; See my blog at [chenxing640.github.io](https://chenxing640.github.io/)
+- 🖥️ &nbsp; See my blog at [itenfay.github.io](https://itenfay.github.io/)
 - 🤝 &nbsp; I'm open to collaborating on any open source projects.
 - 💬 &nbsp; Ask me anything [here](https://www.jianshu.com/u/7fc76f1179cc)! I am happy to help.
 - 📫 &nbsp; How to reach me: hansen981@126.com
