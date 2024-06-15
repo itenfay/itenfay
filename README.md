@@ -29,26 +29,25 @@ Here are some ideas to get you started:
 <!--- I'm open to collaborating on any open source projects. -->
 
 <!-- ## 💬 Ask me about-->
-<!---->
 <!--- Objective-C or Swift development, etc.  -->
 <!--- Augmented Reality with ARKit and RealityKit. -->
 <!--- Other or open source software. -->
 
 <!-- ## 📫 How to reach me-->
 <!--- Jianshu: [腾飞Tenfay](https://www.jianshu.com/u/7fc76f1179cc)-->
-<!--- Zhihu: [腾飞](https://www.zhihu.com/people/c9ea1793a9a09c1af2b689c0676940b8)-->
-<!--- Email: hansen981@126.com -->
+<!--- Zhihu: [腾腾飞Tenfay](https://www.zhihu.com/people/c9ea1793a9a09c1af2b689c0676940b8)-->
+<!--- Email: itenfay@163.com -->
 
 <!-- Thank you for visiting my GitHub profile! -->
 
 ### More About Me
 
 - 🌍 &nbsp; I live in Changsha, China.
-- 🎓 &nbsp; iOS develop engineer
+- 🎓 &nbsp; An engineer who likes to develop the mobile apps.
 - 🖥️ &nbsp; See my blog at [itenfay.github.io](https://itenfay.github.io/)
 - 🤝 &nbsp; I'm open to collaborating on any open source projects.
 - 💬 &nbsp; Ask me anything [here](https://www.jianshu.com/u/7fc76f1179cc)! I am happy to help.
-- 📫 &nbsp; How to reach me: hansen981@126.com
+- 📫 &nbsp; How to reach me: itenfay@163.com
 
 ### Languages and Tools
 
@@ -65,7 +64,6 @@ Here are some ideas to get you started:
   <img align="left" alt="" height ="22px"  src="https://img.shields.io/badge/Python-2CA5E0?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-<br>
 <br>
 
 ### Github Stats
@@ -95,3 +93,4 @@ Here are some ideas to get you started:
 </picture>
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=itenfay&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />-->
+
