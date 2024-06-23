@@ -44,10 +44,11 @@ Here are some ideas to get you started:
 
 - 🌍 &nbsp; I live in Changsha, China.
 - 🎓 &nbsp; An engineer who likes to develop the mobile apps.
-- 🖥️ &nbsp; See my blog at [itenfay.github.io](https://itenfay.github.io/)
+- 🖥️ &nbsp; See my blog at [itenfay.github.io](https://itenfay.github.io/).
 - 🤝 &nbsp; I'm open to collaborating on any open source projects.
 - 💬 &nbsp; Ask me anything [here](https://www.jianshu.com/u/7fc76f1179cc)! I am happy to help.
-- 📫 &nbsp; How to reach me: itenfay@163.com
+- 📫 &nbsp; How to reach me: itenfay@163.com.
+- 🐧 &nbsp; QQ Group: 614799921(Full), 259458876, 155353383.
 
 ### Languages and Tools
 
